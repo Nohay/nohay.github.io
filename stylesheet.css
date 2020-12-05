@@ -8,6 +8,7 @@ ul {
     width: auto;
     margin: auto;
     text-align: center;
+    padding: 0;
 }
 
 li {
@@ -196,6 +197,11 @@ dt {
     padding: 10px;
 }
 
+dd a {
+    position: relative;
+    top: 5px;
+}
+
 dl.menu dd {
     margin: auto;
     padding-bottom: 10px;
@@ -230,4 +236,8 @@ div.menu {
 
 footer img {
     width: 30px;
+}
+
+footer {
+    margin-bottom: 80px;
 }
