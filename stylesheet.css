@@ -125,7 +125,8 @@ h1 {
 
 .page {
     margin: 0;
-    padding: 15px;
+    border-radius: 4px;
+    padding: 30px;
     background-color: white;
     display: inline-block;
     width: 45%;
